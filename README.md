@@ -6,7 +6,7 @@ Below, you'll find details about the files included in this project.
 
 ## Repository Contents
 
-- **CV.html:** The main HTML file for the CV.
+- **index.html:** The main HTML file for the CV.
 - **css/styles.css:** The CSS file handling the layout and styling of the CV.
 - **js/scripts.js:** The JavaScript file for interactive features in the CV.
 - **assets/img/clair.jpg:** My photo.
