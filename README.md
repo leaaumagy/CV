@@ -16,7 +16,7 @@ Below, you'll find details about the files included in this project.
 ## How to View the CV
 
 1. Clone this repository to your local machine: `git clone https://github.com/leaaumagy/CV.git`
-2. Open the `CV.html` file in your preferred browser.
+2. Open the `index.html` file in your preferred browser.
 
 
 You can contact me for any questions or suggestions.
